@@ -1,34 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=우왕%20신기&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Yoonhee!&fontAlign=50&fontAlignY=70&fontSize=85&fontColor=190707)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=yoonheekimm)](https://github.com/yoonheekimm)
+<br/>
+<h4 align="center">I'm Yoonhee KIM </h4>
+<h4 align="center">I love yellow💛 </h4>
+<h4 align="center"> And I'm studying to be a developer💻 </h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonheekimm)](https://github.com/yoonheekimm/github-readme-stats)
 
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
+<br/>
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+  [![*'s github stats](https://github-readme-stats.vercel.app/api?username=yoonheekimm)](https://github.com/깃허브아이디)
+
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+
+
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-#### Hi there 👋
---- 
-**안녕**
-*하세요* <br/>
-~~취소선~~
-> 인용구
-* 1번
-* 2번
-- 1번
-- 2번
-
-[naver](http://www.naver.com)
-```
-System.Writelint()
-```
-
-:smirk:
+  <p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src=""/></a>
+</p>
+  
+  
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonheekimm%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
