@@ -2,8 +2,7 @@
 
 <br/>
 <h4 align="center">I'm Yoonhee KIM </h4>
-<h4 align="center">I love yellow💛 </h4>
-<h4 align="center"> And I'm studying to be a developer💻 </h4>
+<h4 align="center">I'm studying to be a developer💻 </h4>
 
 
 <br/>
